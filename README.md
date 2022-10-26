@@ -1,4 +1,11 @@
-### Hi there 👋
+## Howdy I'm Artem👋
+
+![589f2549-9735-4845-9b83-7380903f88b1](https://user-images.githubusercontent.com/95878097/197953080-04b1987f-a776-441f-b370-1e42b1881e7a.jpeg)
+
+I'm beginner Softare Developer from Russia. I'm a student, but I really want to learn something new. Most of all I worked with technology .NET in the field of mobile development 📱 and window applications 💻.
+
+## My skills
+<img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.NET&logoColor=5B0BB5"/> <img src="https://img.shields.io/badge/Xamarin-000000?style=for-the-badge&logo=Xamarin&logoColor=3498DB"/> <img src="https://img.shields.io/badge/C and C++-000000?style=for-the-badge&logo=C&logoColor=00599C"/> <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=Flutter&logoColor=02569B"/> <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=Kotlin&logoColor=7F52FF"/> <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=61DAFB"/>
 
 <!--
 **ArtemSorin/ArtemSorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
