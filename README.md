@@ -11,10 +11,6 @@
 <img src="https://img.shields.io/badge/Xamarin-000000?style=for-the-badge&logo=Xamarin&logoColor=3498DB"/>  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=Flutter&logoColor=02569B"/>  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=61DAFB"/>  <img src="https://img.shields.io/badge/.NET MAUI-000000?style=for-the-badge&logo=.NET&logoColor=5B0BB5"/>
 #### databases
 <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=Firebase&logoColor=FFCA28"/> <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=SQLite&logoColor=003B57"/> <img src="https://img.shields.io/badge/Realm-000000?style=for-the-badge&logo=Realm&logoColor=39477F"/>
-## My stats
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <!--
 **ArtemSorin/ArtemSorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
