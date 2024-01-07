@@ -11,6 +11,8 @@
 <img src="https://img.shields.io/badge/Xamarin-000000?style=for-the-badge&logo=Xamarin&logoColor=3498DB"/>  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=Flutter&logoColor=02569B"/>  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=61DAFB"/>  <img src="https://img.shields.io/badge/Vue-000000?style=for-the-badge&logo=Vue.js&logoColor=4FC08D"/>  <img src="https://img.shields.io/badge/.NET MAUI-000000?style=for-the-badge&logo=.NET&logoColor=5B0BB5"/>
 #### databases
 <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=Firebase&logoColor=FFCA28"/> <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=SQLite&logoColor=003B57"/> <img src="https://img.shields.io/badge/Realm-000000?style=for-the-badge&logo=Realm&logoColor=39477F"/> <img src="https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=47A248"/> <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=4479A1"/>
+#### other
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/gitbook-000000?style=for-the-badge&logo=GitBook&logoColor=FFFFFF"/> 
 
 <!--
 **ArtemSorin/ArtemSorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
